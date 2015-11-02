@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.hivedi.widget.CheckableImageView;
+import com.hivedi.widget.checkableimageview.CheckableImageView;
 
 public class MainActivity extends AppCompatActivity {
 

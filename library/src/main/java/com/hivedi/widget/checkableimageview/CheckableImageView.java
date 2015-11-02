@@ -1,4 +1,4 @@
-package com.hivedi.widget;
+package com.hivedi.widget.checkableimageview;
 
 import android.annotation.TargetApi;
 import android.content.Context;

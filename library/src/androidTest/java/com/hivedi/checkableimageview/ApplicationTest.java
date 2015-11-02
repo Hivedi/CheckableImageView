@@ -1,4 +1,4 @@
-package com.hivedi.widget;
+package com.hivedi.checkableimageview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

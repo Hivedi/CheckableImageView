@@ -1,4 +1,4 @@
-package com.hivedi.widget;
+package com.hivedi.checkableimageview;
 
 import org.junit.Test;
 
